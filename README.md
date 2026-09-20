@@ -44,16 +44,3 @@ No build tools or dependencies are required.
 ## Current Scope
 
 This is a front-end prototype. The login and signup forms are visual and interactive only; they do not currently connect to a database, authentication service, or backend API. The navigation links and forgot-password link are also placeholders for future pages and functionality.
-
-## Future Improvements
-
-- Connect authentication forms to a backend or authentication provider
-- Add form validation and password matching feedback
-- Implement forgot-password functionality
-- Add product, services, and contact pages
-- Improve accessibility with additional labels and keyboard states
-- Add mobile navigation behavior
-
-## License
-
-This project is available for personal and educational use. Add a specific license if you plan to distribute or reuse it publicly.
